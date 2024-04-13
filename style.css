@@ -1,0 +1,23 @@
+.bg-dark{
+    background-color: black;
+}
+
+#calculator{
+    max-width: 450px;
+}
+
+.color-light{
+    color: rgb(249, 251, 253);
+}
+
+.bg-gray{
+    background-color: gray;
+}
+
+.bg-orange{
+    background-color: orangered;
+}
+
+.bg-light-gray {
+    background-color: #f2f2f2;
+}
